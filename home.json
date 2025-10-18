@@ -1,21 +1,62 @@
-{
-  "_comment": "....",
-  "heroBanner": {
-    "_comment": "ini untuk wide banner / herobanner",
-    "1285190": "Borderlands® 4"
+[
+  {
+    "title": "Hollow Knight: Silksong",
+    "appid": 1030300,
+    "url_herobanner": "https://cdn.cloudflare.steamstatic.com/steam/apps/1030300/library_hero.jpg"
   },
-  "hotNow": {
-    "_comment": "ini gamecard atau list game hot now",
-    "1030300": "Hollow Knight: Silksong",
-    "2417610": "METAL GEAR SOLID Δ: SNAKE EATER",
-    "3378960": "Lost Soul Aside™",
-    "1888930": "The Last of Us Part I",
-    "2531310": "The Last of Us Part II",
-    "1593500": "God of War",
-    "2322010": "God of War Ragnarök",
-    "1490890": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-    "2928600": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-    "1020790": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
-    "2358720": "Black Myth: Wukong"
+  {
+    "title": "METAL GEAR SOLID Δ: SNAKE EATER",
+    "appid": 2417610,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/2417610/header.jpg"
+  },
+  {
+    "title": "Lost Soul Aside™",
+    "appid": 3378960,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/3378960/header.jpg"
+  },
+  {
+    "title": "The Last of Us Part I",
+    "appid": 1888930,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/1888930/header.jpg"
+  },
+  {
+    "title": "The Last of Us Part II",
+    "appid": 2531310,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/2531310/header.jpg"
+  },
+  {
+    "title": "God of War",
+    "appid": 1593500,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/1593500/header.jpg"
+  },
+  {
+    "title": "God of War Ragnarök",
+    "appid": 2322010,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/2322010/header.jpg"
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+    "appid": 1490890,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/1490890/header.jpg"
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "appid": 2928600,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/2928600/header.jpg"
+  },
+  {
+    "title": "NARUTO X BORUTO Ultimate Ninja STORM CONNECTIONS",
+    "appid": 1020790,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/1020790/header.jpg"
+  },
+  {
+    "title": "Black Myth: Wukong",
+    "appid": 2358720,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/2358720/header.jpg"
+  },
+  {
+    "title": "Borderlands® 4",
+    "appid": 1285190,
+    "url_banner": "https://steamcdn-a.akamaihd.net/steam/apps/1285190/header.jpg"
   }
-}
+]
