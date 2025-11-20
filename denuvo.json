@@ -36,12 +36,6 @@
         "steam_password": "dQIRB5Fme02001"
     },
     {
-        "title": "Persona 3 Reload",
-        "appid": 2161700,
-        "steam_username": "modomaza1970",
-        "steam_password": "A9mCYbaRKi1993"
-    },
-    {
         "title": "Mortal Kombat 1",
         "appid": 1971870,
         "steam_username": "osunavpa1980",
@@ -88,5 +82,30 @@
         "appid": 3017860,
         "steam_username": "sarahwinkler1993",
         "steam_password": "muc0GQaNa_"
+    },
+    {
+        "title": "Persona 3 Reload",
+        "appid": 2161700,
+        "steam_username": "modomaza1970",
+        "steam_password": "A9mCYbaRKi1993"
+    },
+    {
+        "title": "Persona 5 Tactica",
+        "appid": 2254740,
+        "steam_username": "lvpiw56273",
+        "steam_password": "vzas95632D"
+    },
+    {
+        "title": "Persona 5 Strikers",
+        "appid": 1382330,
+        "steam_username": "leopolddudochkin85",
+        "steam_password": "bxQBaHTsYAeJNo0"
+    },
+    {
+        "title": "Persona 4 Golden",
+        "appid": 1113000,
+        "steam_username": "gucenkosofiya2002",
+        "steam_password": "4PoshstZLw5TyEOuhn"
     }
 ]
+
