@@ -1,17 +1,65 @@
-{
-  "2358720": "Black Myth: Wukong",
-  "2050650": "Resident Evil 4",
-  "2246340": "Monster Hunter Wilds",
-  "2680010": "The First Berserker: Khazan",
-  "2679460": "Metaphor: ReFantazio",
-  "990080":  "Hogwarts Legacy",
-  "2161700": "Persona 3 Reload",
-  "1971870": "Mortal Kombat 1",
-  "934700": "Dead Island 2",
-  "2688950": "Planet Coaster 2",
-  "1490890": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
-  "2928600": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
-  "3489700": "Stellar Blade™",
-  "3017860": "DOOM: The Dark Ages",
-  "1941540": "Mafia: The Old Country"
-}
+[
+    {
+  " title": "Black Myth: Wukong",
+   "appid": 2358720
+  },
+    {
+  " title": "Resident Evil 4",
+   "appid": 2050650
+  },
+    {
+  " title": "Monster Hunter Wilds",
+   "appid": 2246340
+  },
+  {
+  " title": "The First Berserker: Khazan",
+   "appid": 2680010
+  },
+  {
+   "title": "Metaphor: ReFantazio",
+   "appid": 2679460
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "appid": 990080
+  },
+  {
+    "title": "Persona 3 Reload",
+    "appid": 2161700
+  },
+  {
+    "title": "Mortal Kombat 1",
+    "appid": 1971870
+  },
+  {
+    "title": "Stellar Blade™",
+    "appid": 3489700
+  },
+  {
+    "title": "Dead Island 2",
+    "appid": 934700
+  },
+  {
+    "title": "Mafia: The Old Country",
+    "appid": 1941540
+  },
+  {
+    "title": "Planet Coaster 2",
+    "appid": 2688950 
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
+    "appid": 1490890
+  },
+  {
+    "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2",
+    "appid": 2928600
+  },
+  {
+    "title": "DOOM: The Dark Ages",
+    "appid": 3017860
+  }
+]
+
+
+
