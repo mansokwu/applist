@@ -1,9 +1,5 @@
 [
     {
-  " title": "SpongeBob SquarePants: Titans of the Tide",
-   "appid": 2479650
-  },
-    {
   " title": "Five Hearts Under One Roof season 2",
    "appid": 3731020
   },
@@ -38,6 +34,10 @@
   {
     "title": "Hollow Knight: Silksong",
     "appid": 1030300
+  },
+        {
+  " title": "Clair Obscur: Expedition 33",
+   "appid": 1903340
   },
   {
     "title": "Dying Light: The Beast",
@@ -76,6 +76,7 @@
     "appid": 2358720
   }
 ]
+
 
 
 
