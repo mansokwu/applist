@@ -1,32 +1,4 @@
 {
-    "metadata": {
-        "scraped_at": "2025-11-22 03:44:14",
-        "source_url": "https://online-fix.me/",
-        "total_games": 1749,
-        "scraper_version": "1.0",
-        "cleaned_at": "2025-11-23 02:37:45",
-        "removed_games": 0,
-        "original_count": 1749,
-        "scraped_date_removed": true,
-        "fields_removed": 1749,
-        "po_seti_removed": true,
-        "titles_updated": 1725,
-        "id_changed_to_appid": true,
-        "fields_updated": 1749,
-        "appid_matched": true,
-        "matched_count": 1191,
-        "not_matched_count": 558,
-        "restructured": true,
-        "appid_converted": 1191,
-        "appid_empty": 558,
-        "image_removed": 28,
-        "urls_changed": true,
-        "urls_updated": true,
-        "new_url": "https://uploads.online-fix.me:2053/uploads/title/Fix%20Repair/",
-        "urls_updated_with_title": true,
-        "urls_changed_count": 0,
-        "url_template": "https://uploads.online-fix.me:2053/uploads/[title]/Fix%20Repair/"
-    },
     "games": [
         {
             "title": "Schedule I",
@@ -95,6 +67,7 @@
         },
         {
             "title": "DayZ (DayZavr)",
+            "appid": 221100,
             "url": "https://uploads.online-fix.me:2053/uploads/DayZ%20%28DayZavr%29/Fix%20Repair/"
         },
         {
@@ -123,12 +96,14 @@
             "url": "https://uploads.online-fix.me:2053/uploads/Tower%20Networking%20Inc/Fix%20Repair/"
         },
         {
-            "title": "13 ноября 2025INAZUMA ELEVEN Victory Road",
-            "url": "https://uploads.online-fix.me:2053/uploads/13%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%202025INAZUMA%20ELEVEN%20Victory%20Road/Fix%20Repair/"
+            "title": "INAZUMA ELEVEN Victory Road",
+            "appid": 2799860,
+            "url": "https://uploads.online-fix.me:2053/uploads/INAZUMA%20ELEVEN%20Victory%20Road/Fix%20Repair/"
         },
         {
-            "title": "12 ноября 2025Salt 2 Shores of Gold",
-            "url": "https://uploads.online-fix.me:2053/uploads/12%20%D0%BD%D0%BE%D1%8F%D0%B1%D1%80%D1%8F%202025Salt%202%20Shores%20of%20Gold/Fix%20Repair/"
+            "title": "Salt 2 Shores of Gold",
+            "appid": 1574900,
+            "url": "https://uploads.online-fix.me:2053/uploads/Salt%202%20Shores%20of%20Gold/Fix%20Repair/"
         },
         {
             "title": "11 ноября 2025NASCAR 25",
@@ -8223,5 +8198,6 @@
         }
     ]
 }
+
 
 
